@@ -146,7 +146,7 @@
   "variables": {
     "virtualNetworkName": "[concat(parameters('clusterName'), 'VNet')]",
     "subnetName": "Subnet-1",
-    "artifactsBaseUrl": "https://raw.githubusercontent.com/MsHpcPack/HPCPack2012R2/master/shared-resources/",
+    "artifactsBaseUrl": "https://raw.githubusercontent.com/lverrall/HPCPack2012R2/master/shared-resources/",
     "diskTypes": {
       "Standard_HDD": "Standard_LRS",
       "Standard_SSD": "StandardSSD_LRS",
