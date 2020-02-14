@@ -227,7 +227,7 @@
             "value": "[parameters('computeNodeVMSize')]"
           },
           "publicIPCreateOption": {
-            "value": "new"
+            "value": "none"
           },
           "publicIPDNSNameLabel": {
             "value": "[parameters('publicIPAddressDnsNameLabel')]"
